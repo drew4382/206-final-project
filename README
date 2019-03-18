@@ -1,0 +1,3 @@
+This code pulls NBA statistical data from a web API, calculates scoring, assisting, and rebounding averages from a certain time period, 
+and finally displays a bar chart of the players the user desired to see the statistics for.
+The api_request.py file is the file that contains the main code and is to be run.
